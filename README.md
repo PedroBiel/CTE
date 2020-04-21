@@ -1,4 +1,3 @@
-# CTE
-# Código Técnico Estructural
+# CTE Código Técnico Estructural
 
 Acción del viento según CTE DB-SE-AE 2009
